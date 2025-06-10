@@ -1,0 +1,20 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #f8b500, #fceabb);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 50px;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
